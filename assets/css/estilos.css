@@ -2,7 +2,7 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
-/* Hero Section */
+/* Hero Section borrar al final*/
 
 #Hero-Section {
   background-image: url("../img/bg-hero.jpg");
@@ -21,7 +21,7 @@ body {
 }
 
 .bg-mistrabajos {
-  background-color: darkcyan;
+  background-color: #607d8b;
 }
 
 /* Contacto */
